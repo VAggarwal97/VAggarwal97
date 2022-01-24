@@ -1,6 +1,7 @@
+<img align="center" width="100%" height="90%" src="Black and White Modern Vintage Pharmacy Back to Business Landscape Banner (1).gif">
+
 <h1 align="center">Hi 👋, I'm vishal aggarwal</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
-
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <button><a href="https://www.instagram.com/vishal_aggarwal97/">Follow me on instagram</a></button>
