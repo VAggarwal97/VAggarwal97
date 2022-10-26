@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **My personal project which will help all in further coming days**
 
-- 🌱 I’m currently learning **java ,python, data structures**
+- 🌱 I’m currently learning ** cpp ,java ,python, data structures ,software devlopnment**
 
 - 🐱‍💻 I'm now want to be a ethical hacker but not a black hat hacker.
 
