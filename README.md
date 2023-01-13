@@ -16,7 +16,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VAggarwal97](https://github.com/VAggarwal97)
 
-- 📝 I regularly write articles on [Code](Code)
 
 - 💬 Ask me about **web development, frontend etc.**
 
