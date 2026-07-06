@@ -1,37 +1,49 @@
-![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+![Banner](YOUR_BANNER_IMAGE)
 
 <h1 align="center">Hi 👋, I'm Vishal Aggarwal</h1>
 
 <h3 align="center">
-Software Development Engineer in Test (SDET) • Full Stack Developer • Automation Testing Enthusiast
+Software Development Engineer in Test (SDET) • QA Automation Engineer • Software Quality Enthusiast
 </h3>
 
 <p align="center">
-Building reliable software through automation, scalable web development, and continuous learning.
+Building reliable software through automation, intelligent testing, and continuous quality engineering.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🧪 About Me
 
-I'm passionate about building high-quality software by combining **Full Stack Development** with **Software Quality Engineering**.
+I'm passionate about ensuring software quality through modern testing practices.
 
-I enjoy developing scalable applications, designing REST APIs, automating testing workflows, improving software reliability, and exploring modern cloud technologies. I'm continuously learning new tools and frameworks that help deliver faster, more maintainable, and production-ready software.
+My interests revolve around designing automation frameworks, validating APIs, improving release quality, optimizing test execution, and integrating testing into modern CI/CD pipelines.
 
-Whether it's developing applications from scratch or creating automation frameworks to improve testing efficiency, I enjoy solving real-world engineering problems through clean code and best practices.
+I'm continuously learning emerging testing technologies including AI-powered testing, intelligent automation, performance engineering, and cloud-native testing.
+
+I believe that testing is not the final phase of development—it's an integral part of building reliable software.
+
+---
+
+# 🎯 Areas of Interest
+
+- Test Automation
+- Software Quality Engineering
+- Quality Assurance
+- API Testing
+- Web Automation
+- Mobile Automation
+- Performance Testing
+- Security Testing
+- AI in Testing
+- Shift Left Testing
+- DevOps Testing
+- Cloud Testing
+- Continuous Testing
+- Test Framework Development
 
 ---
 
@@ -40,147 +52,199 @@ Whether it's developing applications from scratch or creating automation framewo
 - Selenium WebDriver
 - Playwright
 - Cypress
+- Appium
 - REST Assured
 - TestNG
-- Appium
-- GitHub Actions
-- Jenkins
+- JUnit 5
+- Cucumber BDD
 - Docker
 - Kubernetes
-- CI/CD Pipelines
-- Performance Testing
-- Security Testing
-- Microservices
-- System Design
-- AI-assisted Software Development
+- Jenkins
+- GitHub Actions
+- Azure DevOps
+- AI Test Automation
+- Self-Healing Automation
+- Performance Testing using JMeter
+- OWASP Security Testing
+- Contract Testing
+- Microservices Testing
 
 ---
 
-# 💬 Ask Me About
-
-- Software Development
-- Test Automation
-- Selenium
-- API Testing
-- Java
-- JavaScript
-- React
-- Node.js
-- REST APIs
-- SQL
-- MongoDB
-- Cloud Basics
-
----
-
-# 💻 Tech Stack
-
-## Programming Languages
+# 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript,cpp,c,php,python" />
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,bash"/>
 </p>
 
 ---
 
-## Frontend Development
+# 🧪 Automation Testing
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=selenium,postman"/>
 </p>
+
+### Working With
+
+- Selenium WebDriver
+- Playwright
+- Cypress
+- Appium
+- REST Assured
+- Postman
+- TestNG
+- JUnit
+- Cucumber
+- Maven
+- Gradle
 
 ---
 
-## Backend Development
+# 🔍 Manual Testing
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-</p>
-
----
-
-## Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
-
----
-
-## Testing & Quality Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=selenium,postman,jest" />
-</p>
-
-### Testing Skills
-
-- Manual Testing
-- Automation Testing
 - Functional Testing
 - Regression Testing
 - Smoke Testing
 - Sanity Testing
-- API Testing
-- REST API Validation
-- Test Case Design
-- Test Execution
-- Bug Reporting
-- SDLC
-- STLC
-- Agile Methodology
+- Exploratory Testing
+- Integration Testing
+- System Testing
+- User Acceptance Testing (UAT)
+- End-to-End Testing
+- Compatibility Testing
+- Cross Browser Testing
+- Cross Platform Testing
+- Accessibility Testing
+
+---
+
+# 🌐 API Testing
+
+- REST API Testing
+- API Automation
+- Postman
+- REST Assured
+- JSON Validation
+- Authentication Testing
+- Swagger
+- OpenAPI
+- Contract Testing
+
+---
+
+# ⚡ Performance Testing
+
+- Apache JMeter
+- Load Testing
+- Stress Testing
+- Spike Testing
+- Endurance Testing
+- Performance Monitoring
+
+---
+
+# 🔐 Security Testing
+
+- OWASP Top 10
+- Authentication Testing
+- Authorization Testing
+- Vulnerability Assessment
+- Input Validation
+- SQL Injection Testing
+- XSS Testing
+
+---
+
+# ☁️ DevOps & Continuous Testing
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,aws,azure,gcp"/>
+</p>
+
+Working with
+
+- CI/CD Pipelines
+- Jenkins
+- GitHub Actions
+- Docker
+- Kubernetes
+- AWS
+- Azure
+- Google Cloud
+
+---
+
+# 🤖 AI in Testing
+
+Currently exploring
+
+- AI-assisted Test Case Generation
+- AI Test Automation
+- Self-Healing Automation Frameworks
+- Visual Testing using AI
+- Intelligent Bug Detection
+- AI Code Review
+- AI Generated Test Data
+- Prompt Engineering for QA
+- AI-assisted API Testing
+- AI-powered Regression Testing
+
+---
+
+# 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma"/>
+</p>
+
 - Jira
+- Postman
+- Maven
+- IntelliJ IDEA
+- VS Code
+- Git
+- GitHub
 
 ---
 
-## Cloud & DevOps
+# 📚 Currently Exploring
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,githubactions,jenkins" />
-</p>
-
----
-
-## Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,bash,npm,figma" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🛒 Full Stack E-Commerce Platform
-
-Modern e-commerce application featuring product variants, loyalty engine, marketing campaigns, dynamic banners, inventory management, reviews, responsive UI, and admin dashboard.
+- Shift Left Testing
+- Shift Right Testing
+- Chaos Engineering
+- Test Observability
+- Cloud Native Testing
+- Kubernetes Testing
+- Service Virtualization
+- Contract Testing
+- Test Containers
+- Microservices Testing
 
 ---
 
-### 🧪 QA Automation Framework
+# 🚀 Featured Repositories
 
-Automation testing framework designed for scalable test execution, API validation, reporting, and continuous integration.
-
----
-
-### 🏥 Doctor Appointment Management System
-
-A complete appointment scheduling platform with authentication, patient management, doctor dashboard, and MySQL integration.
-
----
-
-### 🌍 NGO Management Portal
-
-A responsive web application built to help NGOs manage volunteers, campaigns, donations, and online presence.
+- Selenium Automation Framework
+- Playwright Automation Suite
+- API Automation Framework
+- Manual Testing Templates
+- QA Utilities
+- Automation Learning Repository
+- Performance Testing Examples
 
 ---
 
-# 📈 GitHub Analytics
+# 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+# 📊 Most Used Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -188,7 +252,7 @@ A responsive web application built to help NGOs manage volunteers, campaigns, do
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
@@ -199,82 +263,31 @@ A responsive web application built to help NGOs manage volunteers, campaigns, do
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4"/>
 </p>
-
----
-
-# 📌 Pinned Repositories
-
-> ⭐ Some of the repositories that best represent my work.
-
-- 🛒 Full Stack E-Commerce Platform
-- 🧪 Automation Testing Framework
-- 🏥 Doctor Appointment System
-- 🌍 NGO Management Portal
-- ⚙️ API Projects
-- ☁️ Cloud Learning Projects
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="blank">
+<p>
+<a href="https://github.com/YOUR_USERNAME">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/>
-</a>
-
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
-<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="48"/>
-</a>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Development+Engineer+in+Test;Full+Stack+Developer;Automation+Testing+Enthusiast;Building+Reliable+Software;Always+Learning+New+Technologies" />
-</p>
 
----
+### "Quality is engineered, not inspected."
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight&utcOffset=5.5"/>
-</p>
-
----
-
-## ⚡ Quote
-
-> **"Quality is never an accident; it is always the result of intelligent effort."**
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
